@@ -27,3 +27,6 @@ Frontend: http://localhost:3000
 MinIO Console: http://localhost:9001 (minioadmin / minioadmin)
 
 
+
+## —сылка на репозиторий
+https://github.com/karlovsanya90-ship-it/youtube-copy
